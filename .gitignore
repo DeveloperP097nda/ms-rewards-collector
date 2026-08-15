@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Captured screen coordinates (machine/resolution specific)
+coordinates.json
